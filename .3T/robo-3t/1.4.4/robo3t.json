@@ -1,0 +1,173 @@
+{
+ "acceptedEulaVersions" : [
+  "1.4.4"
+ ],
+ "anonymousID" : "58572eba-7019-4d87-ac15-316c35cbc6a6",
+ "autoExec" : false,
+ "autoExpand" : false,
+ "autocompletionMode" : 1,
+ "batchSize" : 50,
+ "cacheData" : {
+  
+ },
+ "checkForUpdates" : true,
+ "connections" : [
+  {
+   "connectionName" : "dbtest",
+   "credentials" : [
+    {
+     "databaseName" : "admin",
+     "enabled" : true,
+     "manuallyVisibleDbs" : "",
+     "mechanism" : "SCRAM-SHA-1",
+     "useManuallyVisibleDbs" : false,
+     "userName" : "haein",
+     "userPasswordEncrypted" : "AwIeazlx2OmAyA=="
+    }
+   ],
+   "defaultDatabase" : "",
+   "isReplicaSet" : false,
+   "serverHost" : "43.200.3.162",
+   "serverPort" : 27017,
+   "ssh" : {
+    "askPassword" : false,
+    "enabled" : false,
+    "host" : "",
+    "method" : "publickey",
+    "passphraseEncrypted" : "",
+    "port" : 22,
+    "privateKeyFile" : "",
+    "publicKeyFile" : "",
+    "userName" : "",
+    "userPasswordEncrypted" : ""
+   },
+   "ssl" : {
+    "allowInvalidCertificates" : false,
+    "allowInvalidHostnames" : false,
+    "askPassphrase" : false,
+    "caFile" : "",
+    "crlFile" : "",
+    "pemKeyFile" : "",
+    "pemPassPhraseEncrypted" : "",
+    "sslEnabled" : false,
+    "useAdvancedOptions" : false,
+    "usePemFile" : false
+   },
+   "uuid" : "{a09414b4-8bbd-4385-a157-798076caf067}"
+  },
+  {
+   "connectionName" : "New Connection",
+   "credentials" : [
+    {
+     "databaseName" : "admin",
+     "enabled" : false,
+     "manuallyVisibleDbs" : "",
+     "mechanism" : "SCRAM-SHA-1",
+     "useManuallyVisibleDbs" : false,
+     "userName" : "",
+     "userPasswordEncrypted" : ""
+    }
+   ],
+   "defaultDatabase" : "",
+   "isReplicaSet" : false,
+   "serverHost" : "localhost",
+   "serverPort" : 27017,
+   "ssh" : {
+    "askPassword" : false,
+    "enabled" : false,
+    "host" : "",
+    "method" : "publickey",
+    "passphraseEncrypted" : "",
+    "port" : 22,
+    "privateKeyFile" : "",
+    "publicKeyFile" : "",
+    "userName" : "",
+    "userPasswordEncrypted" : ""
+   },
+   "ssl" : {
+    "allowInvalidCertificates" : false,
+    "allowInvalidHostnames" : false,
+    "askPassphrase" : false,
+    "caFile" : "",
+    "crlFile" : "",
+    "pemKeyFile" : "",
+    "pemPassPhraseEncrypted" : "",
+    "sslEnabled" : false,
+    "useAdvancedOptions" : false,
+    "usePemFile" : false
+   },
+   "uuid" : "{8005ceca-9605-4361-9f34-6f4e8e99a4c8}"
+  },
+  {
+   "connectionName" : "seungwooktest",
+   "credentials" : [
+    {
+     "databaseName" : "admin",
+     "enabled" : true,
+     "manuallyVisibleDbs" : "",
+     "mechanism" : "SCRAM-SHA-1",
+     "useManuallyVisibleDbs" : false,
+     "userName" : "seungwook",
+     "userPasswordEncrypted" : "AwLaHHM+k7XakkI="
+    }
+   ],
+   "defaultDatabase" : "",
+   "isReplicaSet" : false,
+   "serverHost" : "ec2-43-200-3-162.ap-northeast-2.compute.amazonaws.com",
+   "serverPort" : 27017,
+   "ssh" : {
+    "askPassword" : false,
+    "enabled" : false,
+    "host" : "",
+    "method" : "publickey",
+    "passphraseEncrypted" : "",
+    "port" : 22,
+    "privateKeyFile" : "",
+    "publicKeyFile" : "",
+    "userName" : "",
+    "userPasswordEncrypted" : ""
+   },
+   "ssl" : {
+    "allowInvalidCertificates" : false,
+    "allowInvalidHostnames" : false,
+    "askPassphrase" : false,
+    "caFile" : "",
+    "crlFile" : "",
+    "pemKeyFile" : "",
+    "pemPassPhraseEncrypted" : "",
+    "sslEnabled" : false,
+    "useAdvancedOptions" : false,
+    "usePemFile" : false
+   },
+   "uuid" : "{1f75f1e1-6930-4544-a9e6-934e0ae15ff3}"
+  }
+ ],
+ "dbVersionsConnected" : [
+  "6.0.0",
+  "4.4.15"
+ ],
+ "debugMode" : false,
+ "disableConnectionShortcuts" : false,
+ "disableHttpsFeatures" : false,
+ "imported" : false,
+ "lineNumbers" : false,
+ "loadMongoRcJs" : false,
+ "minimizeToTray" : false,
+ "mongoTimeoutSec" : 10,
+ "programExitedNormally" : true,
+ "shellTimeoutSec" : 15,
+ "style" : "Native",
+ "textFontFamily" : "",
+ "textFontPointSize" : -1,
+ "timeZone" : 0,
+ "toolbars" : {
+  "connect" : true,
+  "exec" : true,
+  "explorer" : true,
+  "logs" : false,
+  "open_save" : true
+ },
+ "uuidEncoding" : 0,
+ "version" : "2.0",
+ "viewMode" : 1
+}

@@ -1,0 +1,3 @@
+/Users/haeinlee/opt/anaconda3
+/Users/haeinlee/miniforge3
+/Users/haeinlee/miniforge3/envs/mask
