@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/oceanin-gh-pages/static/css/main.a3e6b086.css",
+    "main.js": "/oceanin-gh-pages/static/js/main.53f16e1c.js",
+    "static/media/moun3.png": "/oceanin-gh-pages/static/media/moun3.30e0ffeb3c281610681f.png",
+    "static/media/slick.svg": "/oceanin-gh-pages/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/oceanin-gh-pages/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/oceanin-gh-pages/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/oceanin-gh-pages/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/oceanin-gh-pages/index.html",
+    "main.a3e6b086.css.map": "/oceanin-gh-pages/static/css/main.a3e6b086.css.map",
+    "main.53f16e1c.js.map": "/oceanin-gh-pages/static/js/main.53f16e1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3e6b086.css",
+    "static/js/main.53f16e1c.js"
+  ]
+}
